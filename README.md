@@ -87,3 +87,10 @@ Features:
 -------------
 CITATION
 -------------
+
+
+-------------
+COPYRIGHT 
+-------------
+
+Los Alamos National Security, LLC (LANS) owns the copyright to ADEPT, which it identifies internally as LA-CC-14-081.  The license is GPLv3.  See [LICENSE](https://github.com/losalamos/ADEPT/blob/master/LICENSE) for the full text.
